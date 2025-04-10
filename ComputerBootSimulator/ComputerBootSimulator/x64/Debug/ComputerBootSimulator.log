@@ -1,0 +1,5 @@
+﻿  ComputerBootSimulator.cpp
+D:\ComputerBootSimulator\ComputerBootSimulator\ComputerBootSimulator.cpp(132,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ComputerBootSimulator.vcxproj -> D:\ComputerBootSimulator\x64\Debug\ComputerBootSimulator.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
